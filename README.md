@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate software developer currently focu
 ## 🏆 LeetCode Stats
 
 <!-- LEETCODE_STATS -->
-![Leetcode Stats](https://leetcard.jacoblin.cool/dar00)
+![Leetcode Stats](https://leetcard.jacoblin.cool/dar00?ext=heatmap)
 
 ## 📈 GitHub Stats
 
