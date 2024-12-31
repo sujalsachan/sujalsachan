@@ -18,7 +18,7 @@ jobs:
         id: leetcode
         uses: yanagi0306/leetcode-stats@v1.2.7
         with:
-          username: 'dar00'
+          username: dar00
 
       - name: Update README
         run: |
