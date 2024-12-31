@@ -11,11 +11,11 @@ Welcome to my GitHub profile! I'm a passionate software developer currently focu
 - 📫 How to reach me: [sachansujal773@gmail.com](mailto:sachansujal773@gmail.com)
 - ⚡ Fun fact: I enjoy solving coding challenges and participating in hackathons.
 
-## 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools: 
 
 - **Languages:** Java
 - **Frameworks and Libraries:** React Native, Nativewind, Expo, Animatable
-- **Backend Systems:** Appwrite
+- **Backend Systems:** Appwrite, Nodejs, Firebase
 
 ## 🏆 LeetCode Stats
 
